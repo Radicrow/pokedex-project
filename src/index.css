@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "Aokahori";
+  src: local("Aokahori"), url("./fonts/Aokahori.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Sigokae Demo";
+  src: local("Sigokae Demo"), url("./fonts/Sigokae Demo.otf") format("truetype");
+}
+@font-face {
+  font-family: "Wasabi Regular";
+  src: local("Wasabi Regular"), url("./fonts/Wasabi Regular.ttf") format("truetype");
+}
+
+
