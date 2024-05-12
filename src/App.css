@@ -23,7 +23,7 @@ nav{
 }
 .pokemon-card{
 font-family: "Aokahori", sans-serif;
-font-size: 30px;
+font-size: 33px;
 display: flex;
 text-transform: capitalize;
 box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.25);
