@@ -29,6 +29,10 @@ text-transform: capitalize;
 box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
+.loading{
+  font-family: "Aokahori", sans-serif;
+  font-size: 50px;
+}
 
 .card-body{ 
   display: flex;
